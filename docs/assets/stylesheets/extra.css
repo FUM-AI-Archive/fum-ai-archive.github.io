@@ -1,0 +1,21 @@
+/*
+  Minimal custom styling on top of Material for MkDocs.
+  Keep this file small and intentional — most look-and-feel should come
+  from the theme's built-in palette and features in mkdocs.yml.
+*/
+
+:root {
+  --md-primary-fg-color: #2b3a55;
+}
+
+/* Slightly tighten line length on very wide screens for readability */
+.md-content {
+  max-width: 50rem;
+  margin: 0 auto;
+}
+
+/* Give admonitions a touch more breathing room */
+.md-typeset .admonition,
+.md-typeset details {
+  margin: 1.2em 0;
+}

@@ -1,0 +1,125 @@
+site_name: FUM AI Archive
+site_description: >-
+  A public, long-term archive of educational resources, repositories, and
+  work produced by the AI course teaching assistants.
+site_url: https://fum-ai-archive.github.io/
+repo_name: FUM-AI-Archive
+repo_url: https://github.com/FUM-AI-Archive
+edit_uri: edit/main/docs/
+
+copyright: >-
+  © FUM AI Archive contributors. This site is an independent archive and is
+  not the official AI course website.
+
+theme:
+  name: material
+  language: en
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - content.action.edit
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/FUM-AI-Archive
+  generator: false
+
+# ---------------------------------------------------------------------------
+# Navigation
+#
+# To add a new semester:
+#   1. Copy an existing semester directory under docs/archive/ (e.g. spring-2026)
+#      to a new folder (e.g. fall-2026).
+#   2. Update the content of each page for the new semester.
+#   3. Add a new nav entry below, mirroring the structure of an existing
+#      semester block.
+# ---------------------------------------------------------------------------
+nav:
+  - Home: index.md
+  - About: about.md
+  - Repositories: repositories.md
+  - Archive:
+      - Overview: archive/index.md
+      - Fall 2025:
+          - Overview: archive/fall-2025/index.md
+          - Team: archive/fall-2025/team.md
+          - Highlights: archive/fall-2025/highlights.md
+          - Schedule: archive/fall-2025/schedule.md
+          - Repositories: archive/fall-2025/repositories.md
+          - Assignments: archive/fall-2025/assignments.md
+          - Projects: archive/fall-2025/projects.md
+          - Tutorials: archive/fall-2025/tutorials.md
+          - Resources: archive/fall-2025/resources.md
+      - Spring 2026:
+          - Overview: archive/spring-2026/index.md
+          - Team: archive/spring-2026/team.md
+          - Highlights: archive/spring-2026/highlights.md
+          - Schedule: archive/spring-2026/schedule.md
+          - Repositories: archive/spring-2026/repositories.md
+          - Assignments: archive/spring-2026/assignments.md
+          - Projects: archive/spring-2026/projects.md
+          - Tutorials: archive/spring-2026/tutorials.md
+          - Resources: archive/spring-2026/resources.md
+  - Contributing: contributing.md
