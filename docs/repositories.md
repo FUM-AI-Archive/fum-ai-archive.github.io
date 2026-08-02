@@ -20,7 +20,7 @@ documentation site, shared tooling, or templates.
 ## Semester repositories
 
 Each semester maintains its own set of repositories (assignments, projects,
-tutorials, starter code, etc.). These are also linked from each semester's
+starter code, etc.). These are also linked from each semester's
 own **Repositories** page under the Archive section, but are summarized
 here for convenience.
 

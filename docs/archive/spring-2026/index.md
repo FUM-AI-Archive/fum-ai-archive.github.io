@@ -11,12 +11,10 @@ This section archives the AI course as it ran in the **Spring 2026** semester.
 ## Contents
 
 - [Team](team.md) — instructors and teaching assistants for the semester.
-- [Highlights](highlights.md) — notable outcomes and events.
 - [Schedule](schedule.md) — the semester's session-by-session timeline.
 - [Repositories](repositories.md) — repositories produced this semester.
 - [Assignments](assignments.md) — assignments given during the semester.
 - [Projects](projects.md) — student or team projects.
-- [Tutorials](tutorials.md) — supplementary tutorials.
 - [Resources](resources.md) — additional reading and tools.
 
 This semester's section is self-contained: it does not depend on content

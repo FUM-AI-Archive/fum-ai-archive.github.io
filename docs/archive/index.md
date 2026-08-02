@@ -2,8 +2,7 @@
 
 This section is the core of the FUM AI Archive: a collection of
 self-contained, per-semester documentation covering the AI course's
-teaching assistants, schedule, assignments, projects, tutorials, and
-resources.
+teaching assistants, schedule, assignments, projects and resources.
 
 ## Philosophy
 
@@ -17,12 +16,10 @@ Each semester section includes the following pages:
 
 - **Overview** — a short summary of the semester.
 - **Team** — the teaching assistants and instructors involved.
-- **Highlights** — notable outcomes, events, or achievements.
 - **Schedule** — the semester's timeline of topics and sessions.
 - **Repositories** — links to repositories produced during the semester.
 - **Assignments** — the assignments given during the semester.
 - **Projects** — student or team projects from the semester.
-- **Tutorials** — supplementary tutorials created for the semester.
 - **Resources** — additional reading, tools, and reference material.
 
 ## Available semesters

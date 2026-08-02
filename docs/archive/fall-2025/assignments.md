@@ -26,14 +26,14 @@ The template is publicly available in the course repository:
 
 | HW | Topic | Prepared by | PDF |
 |:--:|-------|-------------|-----|
-| 1 | _(Topic)_ | _Sania Dolat_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW1/FUM-Artificial-intelligence-HW%2301.pdf) |
-| 2 | _(Topic)_ | _Amirreza Saeedi_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW2/FUM-Artificial-intelligence-HW%2302.pdf) |
-| 3 | _(Topic)_ | _Kian Daneshvar_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW3/FUM-Artificial-intelligence-HW%2303.pdf) |
-| 4 | _(Topic)_ | _Amirreza Saeedi_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW4/FUM-Artificial-intelligence-HW%2304.pdf) |
-| 5 | _(Topic)_ | _Hesamodin Shafiei_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW5/FUM-Artificial-intelligence-HW%2305.pdf) |
-| 6 | _(Topic)_ | _Hesamodin Shafiei_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW6/FUM-Artificial-intelligence-HW%2306.pdf) |
-| 7 | _(Topic)_ | _Mahsa Hasanpour_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW7/FUM-Artificial-intelligence-HW%2307.pdf) |
-| 8 | _(Topic)_ | _Mahsa Hasanpour_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW8/FUM-Artificial-intelligence-HW%2308.pdf) |
+| 1 | _Intelligent Agents, and Uninformed Search_ | _Sania Dolat_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW1/FUM-Artificial-intelligence-HW%2301.pdf) |
+| 2 | _Heuristic Search_ | _Amirreza Saeedi_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW2/FUM-Artificial-intelligence-HW%2302.pdf) |
+| 3 | _Local Search and Genetic Algorithms_ | _Kian Daneshvar_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW3/FUM-Artificial-intelligence-HW%2303.pdf) |
+| 4 | _Adversarial Search_ | _Amirreza Saeedi_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW4/FUM-Artificial-intelligence-HW%2304.pdf) |
+| 5 | _Constraint Satisfaction Problems (CSP)_ | _Hesamodin Shafiei_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW5/FUM-Artificial-intelligence-HW%2305.pdf) |
+| 6 | _Logical Agents and First-Order Logic_ | _Hesamodin Shafiei_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW6/FUM-Artificial-intelligence-HW%2306.pdf) |
+| 7 | _Inference in First-Order Logic_ | _Mahsa Hasanpour_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW7/FUM-Artificial-intelligence-HW%2307.pdf) |
+| 8 | _Planning_ | _Mahsa Hasanpour_ | [PDF](https://github.com/FUM-AI-Archive/ai-assignments-2025-fall/blob/main/HW8/FUM-Artificial-intelligence-HW%2308.pdf) |
 
 ---
 

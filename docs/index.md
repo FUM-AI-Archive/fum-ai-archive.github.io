@@ -26,8 +26,7 @@ The goals of this archive are to:
 - Preserve course materials beyond the lifetime of any single semester.
 - Give future teaching assistants a reference point for how the course has
   evolved.
-- Provide students with a browsable history of assignments, projects, and
-  tutorials.
+- Provide students with a browsable history of assignments and projects.
 - Centralize links to the repositories produced by each semester's cohort.
 
 ## An archive, not a course platform
@@ -45,8 +44,7 @@ Moodle's job.
   under the FUM-AI-Archive GitHub organization.
 - **Archive** — the main body of the site, organized by semester
   (e.g. *Fall 2025*, *Spring 2026*). Each semester section is
-  self-contained and includes its team, schedule, assignments, projects,
-  tutorials, and resources.
+  self-contained and includes its team, schedule, assignments, projects and resources.
 - **[Contributing](contributing.md)** — how teaching assistants can add or
   update content, including instructions for archiving a new semester.
 

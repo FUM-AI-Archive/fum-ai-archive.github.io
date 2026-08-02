@@ -28,8 +28,8 @@ copying an existing one:
    ```bash
    cp -r docs/archive/spring-2026 docs/archive/fall-2026
    ```
-2. Update the content of every page in the new directory (team, highlights,
-   schedule, repositories, assignments, projects, tutorials, resources).
+2. Update the content of every page in the new directory (team,
+   schedule, repositories, assignments, projects, resources).
 3. Add a corresponding entry to the `nav` section of `mkdocs.yml`, mirroring
    the structure used for existing semesters.
 4. Open a pull request with the changes.

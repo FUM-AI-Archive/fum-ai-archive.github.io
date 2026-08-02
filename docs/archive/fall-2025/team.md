@@ -1,24 +1,45 @@
 # Team — Fall 2025
 
-The people who ran and supported the AI course during the Fall 2025
-semester.
+This page documents the instructional team responsible for delivering and supporting the **Artificial Intelligence** course during the **Fall 2025** semester.
 
-!!! info "Placeholder content"
-    Replace this with the actual list of instructors and teaching
-    assistants for the semester.
+---
 
-## Instructor(s)
+## Course Instructor
 
-- _(Name)_ — _(role / affiliation)_
+**Dr. Ahad Harati**  
+Associate Professor, Department of Computer Engineering  
+Ferdowsi University of Mashhad
 
-## Teaching assistants
+**Email:** a.harati@um.ac.ir
 
-- _(Name)_ — _(area of responsibility, e.g. assignments, grading, labs)_
-- _(Name)_ — _(area of responsibility)_
-- _(Name)_ — _(area of responsibility)_
+---
 
-## Contact
 
-For official communication regarding this semester's course, please use the
-university Moodle. This page exists for archival and attribution purposes
-only.
+## Head Teaching Assistant
+
+| Name | Responsibilities |
+|------|------------------|
+| Amir Hossein Afshar | Team coordination, educational materials, assignment coordination |
+
+---
+
+## Teaching Assistants
+
+| Name | Responsibilities |
+|------|------------------|
+| _Mahsa Hasanpour_ |  _theory assignments & Programming Projects & review session_ |
+| _Hesamodin Shafiei_ |  _theory assignments & review session_ |
+| _Kian Daneshvar_ |  _theory assignments & quizes & Programming Projects & review session_ |
+| _Sania Dolat_ |  _theory assignments & Programming Projects & review session_ |
+| _Amirreza Saeedi_ |  _theory assignments & review session_ |
+| _Ali Rajaei_ |  _quizes & Programming Projects_ |
+| _Parinaz Akef_ |  _Programming Projects_ |
+| _Mobin Teymoor pour_ |  _Programming Projects_ |
+
+
+
+---
+
+## Acknowledgements
+
+The teaching team collaborated to prepare assignments, educational resources, and course infrastructure throughout the semester. This archive serves to preserve and showcase those collective efforts.
