@@ -1,15 +1,21 @@
 # Repositories — Spring 2026
 
-Repositories produced or used during the Spring 2026 semester, hosted under
-the [FUM-AI-Archive](https://github.com/FUM-AI-Archive) GitHub organization.
+This page lists the GitHub repositories maintained by the teaching team for the **Artificial Intelligence** course during the **Spring 2026** semester.
 
-!!! info "Placeholder content"
-    Replace this table with the actual repositories for the semester once
-    they exist.
+All repositories are hosted under the **FUM-AI-Archive** GitHub organization and are preserved as part of this archive.
+
+---
+
+## Repository List
 
 | Repository | Description | Link |
-|---|---|---|
-| _(repo-name)_ | _(short description)_ | _(GitHub link)_ |
-| _(repo-name)_ | _(short description)_ | _(GitHub link)_ |
+|------------|-------------|------|
+| **ai-assignments-2026-spring** | Collection of handwritten theory assignments, the shared LaTeX template, and related educational materials prepared for the Fall 2025 semester. | https://github.com/FUM-AI-Archive/ai-assignments-2026-spring/ |
 
-See also the organization-wide [Repositories](../../repositories.md) page.
+---
+
+## Notes
+
+Additional repositories may be added to this archive as more course materials become publicly available.
+
+For an overview of repositories across all semesters, see the organization-wide [Repositories](../../repositories.md) page.

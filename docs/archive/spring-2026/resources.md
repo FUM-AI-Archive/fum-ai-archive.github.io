@@ -1,19 +1,28 @@
 # Resources — Spring 2026
 
-Additional reading, tools, and reference material used or recommended
-during the Spring 2026 semester.
+## Primary Textbook
 
-!!! info "Placeholder content"
-    Replace this with the actual list of resources for the semester.
+**Artificial Intelligence: A Modern Approach (4th Edition)**  
+Stuart Russell and Peter Norvig
 
-## Reading
+This textbook served as the primary reference for the course and the foundation for many lectures, assignments, and tutorial sessions.
 
-- _(Title)_ — _(link or citation)_
+---
 
-## Tools
+## Course Materials
 
-- _(Tool name)_ — _(short description and link)_
+### Sharif University of Technology – AI Course Repository
 
-## Other references
+The teaching team also benefited from the publicly available educational materials maintained by the Artificial Intelligence course at Sharif University of Technology.
 
-- _(Reference)_ — _(short description and link)_
+Repository:
+
+https://github.com/sut-ai
+
+The repository provided useful inspiration and reference material while preparing educational resources for this course.
+
+---
+
+## Notes
+
+This page documents the primary resources used during the semester. Additional references may have been introduced throughout the course depending on the topic being covered.

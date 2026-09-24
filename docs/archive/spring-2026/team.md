@@ -1,24 +1,44 @@
 # Team — Spring 2026
 
-The people who ran and supported the AI course during the Spring 2026
-semester.
+This page documents the instructional team responsible for delivering and supporting the **Artificial Intelligence** course during the **Spring 2026** semester.
 
-!!! info "Placeholder content"
-    Replace this with the actual list of instructors and teaching
-    assistants for the semester.
+---
 
-## Instructor(s)
+## Course Instructor
 
-- _(Name)_ — _(role / affiliation)_
+**Dr. Ramin Zarei**
+Department of Computer Engineering  
+Ferdowsi University of Mashhad
 
-## Teaching assistants
+**Email:** ramin-zaree@um.ac.ir
 
-- _(Name)_ — _(area of responsibility, e.g. assignments, grading, labs)_
-- _(Name)_ — _(area of responsibility)_
-- _(Name)_ — _(area of responsibility)_
+---
 
-## Contact
 
-For official communication regarding this semester's course, please use the
-university Moodle. This page exists for archival and attribution purposes
-only.
+## Head Teaching Assistant
+
+| Name | Responsibilities |
+|------|------------------|
+| Amir Hossein Afshar | Team coordination, educational materials, assignment coordination |
+
+---
+
+## Teaching Assistants
+
+| Name | Responsibilities |
+|------|------------------|
+| _Mahsa Hasanpour_ |  _theory assignments_ |
+| _Mohammad Bagher mahdizadeh_ |  _theory assignments_ |
+| _Kian Daneshvar_ |  _theory assignments & Programming Projects_ |
+| _Amir hossein Abolfazli Esfahani_ |  _theory assignments & Programming Projects_ |
+| _Reza Mohammadi_ |  _theory assignments_ |
+| _Fatemeh Tashtaryan_ |  _Programming Projects_ |
+| _Haniya Shahroudnezhad_ |  _Programming Projects_ |
+| _Mobin Teymoor pour_ |  _Programming Projects_ |
+
+
+---
+
+## Acknowledgements
+
+The teaching team collaborated to prepare assignments, educational resources, and course infrastructure throughout the semester. This archive serves to preserve and showcase those collective efforts.
