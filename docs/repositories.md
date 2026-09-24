@@ -32,6 +32,10 @@ here for convenience.
 
 - See [Spring 2026 → Repositories](archive/spring-2026/repositories.md).
 
+### Fall 2026
+
+- See [Fall 2026 → Repositories](archive/fall-2026/repositories.md).
+
 ## Adding a repository to this page
 
 When a new repository is created under the organization:

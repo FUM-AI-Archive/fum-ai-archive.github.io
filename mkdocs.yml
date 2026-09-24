@@ -97,9 +97,7 @@ extra:
 #      semester block.
 # ---------------------------------------------------------------------------
 nav:
-  - Home: index.md
-  - About: about.md
-  - Repositories: repositories.md
+  - About: index.md
   - Archive:
       - Overview: archive/index.md
       - Fall 2025:
@@ -113,9 +111,15 @@ nav:
       - Spring 2026:
           - Overview: archive/spring-2026/index.md
           - Team: archive/spring-2026/team.md
-          - Schedule: archive/spring-2026/schedule.md
           - Repositories: archive/spring-2026/repositories.md
           - Assignments: archive/spring-2026/assignments.md
           - Projects: archive/spring-2026/projects.md
           - Resources: archive/spring-2026/resources.md
-  - Contributing: contributing.md
+      - Fall 2026:
+          - Overview: archive/fall-2026/index.md
+          - Team: archive/fall-2026/team.md
+          - Schedule: archive/fall-2026/schedule.md
+          - Repositories: archive/fall-2026/repositories.md
+          - Assignments: archive/fall-2026/assignments.md
+          - Projects: archive/fall-2026/projects.md
+          - Resources: archive/fall-2026/resources.md

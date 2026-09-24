@@ -78,8 +78,6 @@ The **Reinforcement Learning** programming project was conducted in a format sim
 
 * [Team](team.md) — Course instructor and teaching assistants.
 
-* [Schedule](schedule.md) — Semester timeline and course schedule.
-
 * [Repositories](repositories.md) — GitHub repositories produced during the semester.
 
 * [Assignments](assignments.md) — Theory and programming assignments.

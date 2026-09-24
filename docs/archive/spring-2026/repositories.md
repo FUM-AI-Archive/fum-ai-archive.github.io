@@ -17,5 +17,3 @@ All repositories are hosted under the **FUM-AI-Archive** GitHub organization and
 ## Notes
 
 Additional repositories may be added to this archive as more course materials become publicly available.
-
-For an overview of repositories across all semesters, see the organization-wide [Repositories](../../repositories.md) page.

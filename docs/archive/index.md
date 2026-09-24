@@ -10,7 +10,7 @@ Each semester is treated as an independent, self-contained unit. Nothing in
 one semester's pages depends on another semester's content. This keeps the
 archive simple to maintain and easy to extend: adding a new semester is a
 matter of copying an existing semester's directory and updating its
-content — see [Contributing](../contributing.md) for the exact steps.
+content.
 
 Each semester section includes the following pages:
 
@@ -26,6 +26,7 @@ Each semester section includes the following pages:
 
 - [Fall 2025](fall-2025/index.md)
 - [Spring 2026](spring-2026/index.md)
+- [Fall 2026](fall-2026/index.md)
 
 As new semesters are added, they will appear in this list and in the
 sidebar navigation.
